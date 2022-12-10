@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/react-tik-tac-toe.iml" filepath="$PROJECT_DIR$/.idea/react-tik-tac-toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tiktactoe/.idea/tiktactoe.iml" filepath="$PROJECT_DIR$/../tiktactoe/.idea/tiktactoe.iml" />
     </modules>
   </component>
 </project>
